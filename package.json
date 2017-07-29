@@ -1,0 +1,17 @@
+{
+	"name" : "musicplayer",
+	"version" : "1.0.0",
+	"description" : "",
+	"main" : "main.js",
+
+	"scripts" : {
+		"start" : "electron ."
+	},
+	
+	"author" : "David Kroell",
+	"license" : "MIT",
+
+	"devDependencies" : {
+		"electron-prebuilt" : "^1.1.0"
+	}
+}
